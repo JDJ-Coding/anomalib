@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/open-edge-platform/anomalib/main/docs/source/_static/images/logos/anomalib-wide-blue.png" width="600px" alt="Anomalib Logo - A deep learning library for anomaly detection">
 
 **A library for benchmarking, developing and deploying deep learning anomaly detection algorithms**
-ㅎㅎㅎㅎ
+
 ---
 
 [Key Features](#key-features) •
